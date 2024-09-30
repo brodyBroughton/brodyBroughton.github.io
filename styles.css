@@ -1,0 +1,38 @@
+* {
+  font-family: Input, monospace;
+  font-size: 24;
+  color: #fff;
+}
+.everything {
+background: linear-gradient(
+    45deg,
+    #242424,
+    #424242
+  );
+}
+header {
+  width: 100vw;
+  height: 8vh;
+  position: fixed;
+  background: linear-gradient(
+    -90deg,
+    #5D0064 35%,
+    #1D0064
+  );
+  color: #fff;
+  
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+#navbar {
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+h1 {
+  padding-left: 20px;
+}
