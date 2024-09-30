@@ -26,6 +26,9 @@ a {
         #1D0064
       );
 }
+img {
+    position: flex
+}
 footer {
     background: linear-gradient(
         45deg,
