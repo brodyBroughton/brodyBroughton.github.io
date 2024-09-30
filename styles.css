@@ -3,7 +3,7 @@
   font-size: 24;
   color: #fff;
 }
-.everything {
+.all {
 background: linear-gradient(
     45deg,
     #242424,
@@ -19,8 +19,6 @@ header {
     #5D0064 35%,
     #1D0064
   );
-  color: #fff;
-  
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
