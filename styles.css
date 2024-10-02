@@ -1,3 +1,7 @@
+* {
+    font-family: Input, monospace;
+    color: #fff
+}
 header {
     background: linear-gradient(
         -90deg,
@@ -6,7 +10,8 @@ header {
       );
 }
 h1 {
-    color: #000
+    color: #000;
+    padding: 10px;
 }
 body {
     background: linear-gradient(
@@ -15,9 +20,9 @@ body {
     #424242
   );
 }
-* {
-    font-family: Input, monospace;
-    color: #fff
+img {
+    border: 5px solid #1D0064;
+    border-radius: 50%;
 }
 a {
     background: linear-gradient(
@@ -41,4 +46,5 @@ footer {
     position: absolute;
     bottom: 0;
     left: 0;
+    margin: 10px;
 }
